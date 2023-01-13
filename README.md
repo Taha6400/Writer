@@ -7,6 +7,6 @@
  then it will write an essay about it!
  
  # Taha6400
- i like python! \n\
+ i like python!
  i need some people to collab with!
  this is my 2nd repo!
